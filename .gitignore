@@ -1,0 +1,6 @@
+/build/out/
+*.gbc
+*.gb
+*.o
+*.lst
+*.sym
